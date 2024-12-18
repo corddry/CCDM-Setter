@@ -4,3 +4,6 @@
 [submodule "lib/cross-chain-deposit-module"]
 	path = lib/cross-chain-deposit-module
 	url = https://github.com/roycoprotocol/cross-chain-deposit-module
+[submodule "lib/royco"]
+	path = lib/royco
+	url = https://github.com/roycoprotocol/royco
